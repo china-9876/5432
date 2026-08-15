@@ -1,0 +1,25 @@
+
+//🇰🇷棒子
+
+YTN,webview://webview://https://tv.naver.com/l/176935
+
+연합뉴스TV,webview://https://tv.naver.com/l/171651
+
+KBS뉴스,webview://https://tv.naver.com/l/184843
+
+MBC뉴스,webview://https://tv.naver.com/l/173484
+
+Golfzon,webview://https://tv.naver.com/l/187659
+
+TomatoTV.webview://https://tv.naver.com/l/185648
+
+한국경제TV,webview://https://tv.naver.com/l/188035
+
+MTN 머니투데이방송,webview://https://tv.naver.com/l/188140
+
+서울경제TV,webview://https://tv.naver.com/l/187668
+
+이데일리TV,webview://https://tv.naver.com/l/164337
+
+매일경제TV,webview://https://tv.naver.com/l/187289
+
